@@ -96,6 +96,7 @@ GameObject:
   - 33: {fileID: 13380426}
   - 135: {fileID: 13380425}
   - 23: {fileID: 13380424}
+  - 114: {fileID: 13380428}
   m_Layer: 0
   m_Name: Sphere_A
   m_TagString: Untagged
@@ -161,6 +162,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!114 &13380428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 13380423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509333cf0a51b9e42bcd80c5a9dc8a14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1458824436
 GameObject:
   m_ObjectHideFlags: 0
@@ -234,6 +246,7 @@ GameObject:
   - 33: {fileID: 1643894435}
   - 135: {fileID: 1643894434}
   - 23: {fileID: 1643894433}
+  - 114: {fileID: 1643894437}
   m_Layer: 0
   m_Name: Sphere_B
   m_TagString: Untagged
@@ -299,6 +312,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
+--- !u!114 &1643894437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1643894432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384ced25ea26f6c4b8bf6e54084d7d7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1826012904
 GameObject:
   m_ObjectHideFlags: 0
